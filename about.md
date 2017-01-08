@@ -10,7 +10,7 @@ image:
   thumb:
 ---
 
-<div class="page-lead" style="background-image:url(https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h2>资深建筑设计，室内设计及建筑表现团队</h2>
     <h2>多年加国从业经验</h2>

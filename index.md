@@ -4,7 +4,7 @@ permalink: /
 title:
 ---
 
-<div class="page-lead" style="background-image:url(https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h1>Archiz Design Studio</h1>
     <h2>  </h2>

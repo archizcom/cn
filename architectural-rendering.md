@@ -8,12 +8,12 @@ excerpt: 电脑三维，手绘等艺术表现图
 tags: []
 image:
   feature:
-  teaser:
+  teaser: /images/teaser-architectural-rendering.jpg
   thumb:
 ads: false  
 ---
 
-<div class="page-lead" style="background-image:url(https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h1>Architectural rendering</h1>
     <h2>三维电脑建筑表现图+手绘图</h2>

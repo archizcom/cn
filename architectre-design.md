@@ -8,12 +8,12 @@ excerpt: 住宅，公寓，商业等建筑设计以及政府报建
 tags: []
 image:
   feature:
-  teaser:
+  teaser: /images/teaser-architecture-design.jpg
   thumb:
 ads: false  
 ---
 
-<div class="page-lead" style="background-image:url(https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h1>Architecture Design</h1>
     <h2>住宅，公寓，商业等设计以及政府报建</h2>

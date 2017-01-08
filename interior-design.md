@@ -8,12 +8,12 @@ excerpt: 豪宅，商业，办公等室内设计
 tags: []
 image:
   feature:
-  teaser:
+  teaser: /images/teaser-interior-design.jpg
   thumb:
 ads: false  
 ---
 
-<div class="page-lead" style="background-image:url(https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h1>Interior Design</h1>
     <h2>豪宅，商业，办公等空间室内设计</h2>
