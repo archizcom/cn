@@ -2,6 +2,10 @@
 layout: default
 permalink: /
 title:
+image:
+  feature:
+  teaser: /images/teaser-index.jpg
+  thumb:
 ---
 
 <div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
