@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: 首页
+  url: /
+  excerpt:
+  image:
+- title: 房屋设计
+  url: /architecture-design
+  excerpt:
+  image:
+- title: 室内设计
+  url: /interior-design
+  excerpt:
+  image:
+- title: 建筑表现
+  url: /architectural-rendering
+  excerpt:
+  image:
+- title: 778-300-2111（中文热线）
+  url:
+  excerpt:
+  image:

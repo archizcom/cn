@@ -1,0 +1,8 @@
+# Footer navigation links
+
+- title: 首页
+  url: /
+- title: 关于我们
+  url: /about
+- title: 联系我们
+  url: /contact
