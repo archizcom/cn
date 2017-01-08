@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Table of Contents"
+    toc: "table of contents"
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
@@ -14,6 +14,18 @@ locales:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
     <<: *DEFAULT_EN     # use English translation for en_UK
+
+  # Chinese translation
+  # -------------------
+  cn: &DEFAULT_CN
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "概述"
+    toc: "目录"
+    written_by: "作者"
+    updated: "更新:"
+    share: ""
+  de_cn:
+    <<: *DEFAULT_CN     # use German translation for de_DE
 
   # German translation
   # -------------------

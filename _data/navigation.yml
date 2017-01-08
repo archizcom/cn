@@ -3,19 +3,19 @@
 - title: 首页
   url: /
   excerpt:
-  image:
+  image: /images/teaser-index.jpg
 - title: 房屋设计
   url: /architecture-design
-  excerpt:
-  image:
+  excerpt: 从方案，到报建，到现场监理全程服务
+  image: /images/teaser-architecture-design.jpg
 - title: 室内设计
   url: /interior-design
-  excerpt:
-  image:
+  excerpt: 住宅，办公，商业店铺
+  image: /images/teaser-interior-design.jpg
 - title: 建筑表现
   url: /architectural-rendering
-  excerpt:
-  image:
+  excerpt: 电脑表现图，手绘，三维动画
+  image: /images/teaser-architectural-rendering.jpg
 - title: 778-300-2111（中文热线）
   url:
   excerpt:
