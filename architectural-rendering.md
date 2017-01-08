@@ -17,7 +17,7 @@ ads: false
   <div class="wrap page-lead-content">
     <h1>Architectural rendering</h1>
     <h2>三维电脑建筑表现图+手绘图</h2>
-    <a href="/architecture-design/" class="btn-inverse">电脑</a> &nbsp; + &nbsp; <a href="/interior-design" class="btn-inverse">手绘</a>
+    <a href="/architectural-rendering" class="btn-inverse">电脑</a> &nbsp; + &nbsp; <a href="/architectural-rendering" class="btn-inverse">手绘</a>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
