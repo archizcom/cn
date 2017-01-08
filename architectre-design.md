@@ -34,42 +34,42 @@ ads: false
 
   <div class="tile">
     <h2 class="post-title">Hotel Georgia Residence</h2>
-    <p class="post-excerpt"><a href="/hotel-georgia-residence/"><img src="/images/index-1.jpg" alt="Harbour Green 3"></a></p>
+    <p class="post-excerpt"><a href="/hotel-georgia-residence"><img src="/images/index-1.jpg" alt="Harbour Green 3"></a></p>
   </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Harbour Green 3</h2>
-        <p class="post-excerpt"><a href="/harbour-green-3/"><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
+        <p class="post-excerpt"><a href="/harbour-green-3"><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Groveland Residence</h2>
-        <p class="post-excerpt"><a href="/groveland/"><img src="/images/Groveland_02.jpg" alt="温哥华住宅别墅设计"></a></p>
+        <p class="post-excerpt"><a href="/groveland"><img src="/images/Groveland_02.jpg" alt="温哥华住宅别墅设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Shaughnessy Residence</h2>
-        <p class="post-excerpt"><a href="/Shaughnessy/"><img src="/images/index-2.jpg" alt="温哥华住宅设计"></a></p>
+        <p class="post-excerpt"><a href="/Shaughnessy"><img src="/images/index-2.jpg" alt="温哥华住宅设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">River Green</h2>
-        <p class="post-excerpt"><a href="/river-green/"><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
+        <p class="post-excerpt"><a href="/river-green"><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Point Grey Residence</h2>
-        <p class="post-excerpt"><a href="/point-grey-1/"><img src="/images/point-grey-1.jpg" alt="温哥华住宅别墅设计"></a></p>
+        <p class="post-excerpt"><a href="/point-grey-1"><img src="/images/point-grey-1.jpg" alt="温哥华住宅别墅设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">West Vancouver</h2>
-        <p class="post-excerpt"><a href="/residence-1/"><img src="/images/residence-1.jpg" alt="温哥华住宅别墅"></a></p>
+        <p class="post-excerpt"><a href="/residence-1"><img src="/images/residence-1.jpg" alt="温哥华住宅别墅"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Shopping Mall</h2>
-        <p class="post-excerpt"><a href="/shopping-mall-1/"><img src="/images/shopping-mall-1.jpg" alt="温哥华商业建筑"></a></p>
+        <p class="post-excerpt"><a href="/shopping-mall-1"><img src="/images/shopping-mall-1.jpg" alt="温哥华商业建筑"></a></p>
 
       </div><!-- /.tile -->
   </div><!-- /.page-content -->
