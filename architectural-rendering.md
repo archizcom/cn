@@ -34,63 +34,63 @@ ads: false
   <div class="page-content">
 
       <div class="tile">
-        <h2 class="post-title">Hand Rendering</h2>
-        <p class="post-excerpt"><a href="/hand-1"><img src="/images/hand-1.jpg" alt="architectural-rendering"></a></p>
+        <h2 class="post-title">Hand Rendering 手绘</h2>
+        <p class="post-excerpt"><a href="/images/hand-1.jpg"><img src="/images/hand-1.jpg" alt="architectural-rendering"></a></p>
       </div><!-- /.tile -->
 
         <div class="tile">
-          <h2 class="post-title">Hand Rendering</h2>
-          <p class="post-excerpt"><a href="/hand-2"><img src="/images/hand-2.jpg" alt="architectural-rendering"></a></p>
+          <h2 class="post-title">Hand Rendering 手绘</h2>
+          <p class="post-excerpt"><a href="/images/hand-2.jpg"><img src="/images/hand-2.jpg" alt="architectural-rendering"></a></p>
         </div><!-- /.tile -->
 
           <div class="tile">
-            <h2 class="post-title">Hand Rendering</h2>
-            <p class="post-excerpt"><a href="/hand-3"><img src="/images/hand-3.jpg" alt="architectural-rendering"></a></p>
+            <h2 class="post-title">Hand Rendering 手绘</h2>
+            <p class="post-excerpt"><a href="/images/hand-3.jpg"><img src="/images/hand-3.jpg" alt="architectural-rendering"></a></p>
           </div><!-- /.tile -->
 
             <div class="tile">
-              <h2 class="post-title">Hand Rendering</h2>
-              <p class="post-excerpt"><a href="/hand-4"><img src="/images/hand-4.jpg" alt="architectural-rendering"></a></p>
+              <h2 class="post-title">Hand Rendering 手绘</h2>
+              <p class="post-excerpt"><a href="/images/hand-4.jpg"><img src="/images/hand-4.jpg" alt="architectural-rendering"></a></p>
             </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">Bird's Eye view</h2>
-    <p class="post-excerpt"><a href="/bird-eye-1"><img src="/images/bird1.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">Bird's Eye view 鸟瞰</h2>
+    <p class="post-excerpt"><a href="/images/bird1.jpg"><img src="/images/bird1.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">Bird's Eye view</h2>
-    <p class="post-excerpt"><a href="/bird-eye-2"><img src="/images/bird2.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">Bird's Eye view 鸟瞰</h2>
+    <p class="post-excerpt"><a href="/images/bird2.jpg"><img src="/images/bird2.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">Bird's Eye view</h2>
-    <p class="post-excerpt"><a href="/bird-eye-3"><img src="/images/bird3.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">Bird's Eye view 鸟瞰</h2>
+    <p class="post-excerpt"><a href="/images/bird3.jpg"><img src="/images/bird3.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">Bird's Eye view</h2>
-    <p class="post-excerpt"><a href="/bird-eye-4"><img src="/images/bird4.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">Bird's Eye view 鸟瞰</h2>
+    <p class="post-excerpt"><a href="/images/bird4.jpg"><img src="/images/bird4.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">street level</h2>
-    <p class="post-excerpt"><a href="/street-level-1"><img src="/images/street-level-1.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">street level 透视</h2>
+    <p class="post-excerpt"><a href="/images/street-level-1.jpg"><img src="/images/street-level-1.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">street level</h2>
-    <p class="post-excerpt"><a href="/street-level-2"><img src="/images/street-level-2.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">street level 透视</h2>
+    <p class="post-excerpt"><a href="/images/street-level-2.jpg"><img src="/images/street-level-2.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">street level</h2>
-    <p class="post-excerpt"><a href="/street-level-3"><img src="/images/street-level-3.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">street level 透视</h2>
+    <p class="post-excerpt"><a href="/images/street-level-3.jpg"><img src="/images/street-level-3.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
-    <h2 class="post-title">street level</h2>
-    <p class="post-excerpt"><a href="/street-level-4"><img src="/images/street-level-4.jpg" alt="architectural-rendering"></a></p>
+    <h2 class="post-title">street level 透视</h2>
+    <p class="post-excerpt"><a href="/images/street-level-4.jpg"><img src="/images/street-level-4.jpg" alt="architectural-rendering"></a></p>
   </div><!-- /.tile -->
 
   </div><!-- /.page-content -->

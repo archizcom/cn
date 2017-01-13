@@ -34,42 +34,42 @@ ads: false
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-1"><img src="/images/interior-1.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-1.jpg"><img src="/images/interior-1.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-2"><img src="/images/interior-2.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-2.jpg"><img src="/images/interior-2.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-3"><img src="/images/interior-3.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-3.jpg"><img src="/images/interior-3.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-4"><img src="/images/interior-4.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-4.jpg"><img src="/images/interior-4.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-5"><img src="/images/interior-5.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-5.jpg"><img src="/images/interior-5.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-6"><img src="/images/interior-6.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-6.jpg"><img src="/images/interior-6.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-7"><img src="/images/interior-7.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-7.jpg"><img src="/images/interior-7.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/interior-8"><img src="/images/interior-8.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-8.jpg"><img src="/images/interior-8.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->  
 
   </div><!-- /.page-content -->
