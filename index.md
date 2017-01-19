@@ -13,7 +13,7 @@ image:
     <h1>Archiz Design Studio</h1>
     <h2>  </h2>
     <h2>知识+灵感+创新+经验</h2>
-    <h2>资深设计团队为您设计梦想之家</h2>
+    <h2>资深建筑设计团队为您创造理想空间</h2>
     <h2>  </h2>
     <a href="/architecture-design" class="btn-inverse">房屋建筑设计</a> &nbsp; + &nbsp; <a href="/interior-design" class="btn-inverse">室内设计</a> &nbsp; + &nbsp; <a href="/architectural-rendering" class="btn-inverse">设计表现</a>
   </div><!-- /.page-lead-content -->

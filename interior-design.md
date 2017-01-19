@@ -15,8 +15,8 @@ ads: false
 
 <div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
-    <h1>Interior Design</h1>
-    <h2>豪宅，商业，办公等空间室内设计</h2>
+    <h1>室内设计</h1>
+    <h2>住宅，店铺，商业办公等</h2>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 

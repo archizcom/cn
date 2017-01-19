@@ -15,9 +15,8 @@ ads: false
 
 <div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
-    <h1>Architectural rendering</h1>
-    <h2>三维电脑建筑表现图+手绘图</h2>
-    <a href="/architectural-rendering" class="btn-inverse">电脑</a> &nbsp; + &nbsp; <a href="/architectural-rendering" class="btn-inverse">手绘</a>
+    <h1>建筑手绘 + 电脑三维艺术表现</h1>
+    <h2>Hands, AutoCAD, Sketchup, 3DMax, Photoshop</h2>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 

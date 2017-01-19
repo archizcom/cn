@@ -15,8 +15,8 @@ ads: false
 
 <div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
-    <h1>Architecture Design</h1>
-    <h2>住宅，公寓，商业等设计以及政府报建</h2>
+    <h1>房屋建筑设计</h1>
+    <h2>住宅，办公，商业店铺 设计+政府报建</h2>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
