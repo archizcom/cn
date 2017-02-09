@@ -49,7 +49,7 @@ ads: false
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/images/interior-4.jpg"><img src="/images/interior-4.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-4.png"><img src="/images/interior-4.png" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
@@ -59,17 +59,17 @@ ads: false
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/images/interior-6.jpg"><img src="/images/interior-6.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-6.png"><img src="/images/interior-6.png" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/images/interior-7.jpg"><img src="/images/interior-7.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-7.png"><img src="/images/interior-7.png" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
-    <p class="post-excerpt"><a href="/images/interior-8.jpg"><img src="/images/interior-8.jpg" alt="温哥华室内设计"></a></p>
+    <p class="post-excerpt"><a href="/images/interior-8.png"><img src="/images/interior-8.png" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->  
 
   </div><!-- /.page-content -->
