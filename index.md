@@ -32,8 +32,8 @@ image:
   <div class="page-content">
 
       <div class="tile">
-        <h2 class="post-title">高层</h2>
-        <p class="post-excerpt"><a href="/architecture-design"><img src="/images/index-6.jpg" alt="hotel georgia residence"></a></p>
+        <h2 class="post-title">商业</h2>
+        <p class="post-excerpt"><a href="/commercial-design"><img src="/images/index-6.jpg" alt="hotel georgia residence"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
