@@ -44,6 +44,11 @@ ads: false
 
   <div class="tile">
     <h2 class="post-title">Interior Design</h2>
+    <p class="post-excerpt"><a href="/images/interior-9.png"><img src="/images/interior-9.png" alt="温哥华室内设计"></a></p>
+  </div><!-- /.tile -->  
+
+  <div class="tile">
+    <h2 class="post-title">Interior Design</h2>
     <p class="post-excerpt"><a href="/images/interior-3.jpg"><img src="/images/interior-3.jpg" alt="温哥华室内设计"></a></p>
   </div><!-- /.tile -->
 
