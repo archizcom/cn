@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Git 常用基本命令详解 • Archiz 设计工作室</title>
+    <meta name="description" content="从网站上收集一些基本常用的git命令，作为参考。在加上一些用用链接，作为学习的资料。以便在有些网络资源链接失效后，至少我这里还有个可以检索的备份。
+
+">
+    <meta name="keywords" content="">
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Git 常用基本命令详解">
+	<meta name="twitter:description" content="从网站上收集一些基本常用的git命令，作为参考。在加上一些用用链接，作为学习的资料。以便在有些网络资源链接失效后，至少我这里还有个可以检索的备份。
+
+">
+	
+	
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="/images/">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Git 常用基本命令详解">
+	<meta property="og:description" content="从网站上收集一些基本常用的git命令，作为参考。在加上一些用用链接，作为学习的资料。以便在有些网络资源链接失效后，至少我这里还有个可以检索的备份。
+
+">
+	<meta property="og:url" content="/git-basic/">
+	<meta property="og:site_name" content="Archiz 设计工作室">
+
+    <link rel="canonical" href="/git-basic/">
+
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Archiz 设计工作室 Atom Feed">
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="/js/vendor/html5shiv.min.js"></script>
+      <script src="/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body id="js-body">
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="/" class="site-title"><img src="/images/archiz-logo-2.png" alt="archiz logo">Archiz 设计工作室</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Archiz 设计工作室</a></li>
+	
+    
+    <li><a href="/" >首页</a></li>
+  
+    
+    <li><a href="/commercial-design" >商业设计</a></li>
+  
+    
+    <li><a href="/architecture-design" >住宅设计</a></li>
+  
+    
+    <li><a href="/interior-design" >室内设计</a></li>
+  
+    
+    <li><a href="/architectural-rendering" >建筑表现</a></li>
+  
+    
+    <li><a href="" >778-300-2111（中文热线）</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+
+    <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <h5>Archiz 设计工作室 <span>table of contents</span></h5>
+  <ul class="menu-item">
+    <li>
+      <a href="/">
+        <img src="/images/teaser-index.jpg" alt="teaser" class="teaser">
+        <div class="title">首页</div>
+        
+      </a>
+    </li><li>
+      <a href="/commercial-design">
+        <img src="/images/teaser-commercial-design.jpg" alt="teaser" class="teaser">
+        <div class="title">商业设计</div>
+        <p class="excerpt">办公，商业店铺，展示空间</p>
+      </a>
+    </li><li>
+      <a href="/architecture-design">
+        <img src="/images/teaser-architecture-design.jpg" alt="teaser" class="teaser">
+        <div class="title">住宅设计</div>
+        <p class="excerpt">从方案，政府报建，到现场施工监理</p>
+      </a>
+    </li><li>
+      <a href="/interior-design">
+        <img src="/images/teaser-interior-design.jpg" alt="teaser" class="teaser">
+        <div class="title">室内设计</div>
+        <p class="excerpt">室内装修，装饰装潢</p>
+      </a>
+    </li><li>
+      <a href="/architectural-rendering">
+        <img src="/images/teaser-architectural-rendering.jpg" alt="teaser" class="teaser">
+        <div class="title">建筑表现</div>
+        <p class="excerpt">电脑表现图，手绘，三维动画</p>
+      </a>
+    </li><li>
+      <a href="">
+        
+        <div class="title">778-300-2111（中文热线）</div>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+
+
+    <div id="page-wrapper">
+      <div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		
+		
+		<div class="page-title">
+			<h1>Git 常用基本命令详解</h1>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+				<p>从网站上收集一些基本常用的git命令，作为参考。在加上一些用用链接，作为学习的资料。以便在有些网络资源链接失效后，至少我这里还有个可以检索的备份。</p>
+
+<h2 id="section">配置</h2>
+<ul>
+  <li>命令：
+<code class="highlighter-rouge">git config</code>，参数–global表示你这台机器上所有的Git仓库都会使用这个配置
+    <ol>
+      <li>git config –global user.name “Your Name”</li>
+      <li>git config –global user.email “email@example.com”</li>
+      <li>git config –global alias.co checkout #设置别名，如checkout别名为co</li>
+    </ol>
+  </li>
+</ul>
+
+<h3 id="section-1">版本库</h3>
+<ul>
+  <li>初始化：
+<code class="highlighter-rouge">git init</code>，分布式版本控制系统中每个人的电脑就是一个完整的版本库，初始化后，就意味着这个目录变成Git可以管理的仓库了</li>
+  <li>远程仓库：如果你需要和其他人交换你的修改，最好需要一个远程仓库（以GitHub为例）
+    <ul>
+      <li>
+        <p>创建SSH Key：<code class="highlighter-rouge">ssh-keygen -t rsa -C "youremail@example.com"</code>
+  &gt;操作：一路回车，会在用户主目录生成.ssh目录，其中id_rsa是私钥，不能泄露，id_rsa.pub是公钥，可以对外使用，打开Account settings，SSH Keys页面，然后，点Add SSH Key，填上任意Title，在Key文本框里粘贴id_rsa.pub文件的内容，点Add Key
+说明：你的本地仓库需要一个给远程仓库辨识的标志，id_rsa.pub就是这样一个唯一标识，当你提交时，GitHub便知道了这是谁的提交</p>
+      </li>
+      <li>添加远程仓库：<code class="highlighter-rouge">git remote add origin git@github.com:daihanqiao/daihanqiao.github.io.git</code>
+  &gt;说明：如果你先在本地有了一个仓库，你要同步本地仓库和GitHub上的远程仓库，除了需要将你本地仓库的标识告诉远程仓库，还需要在本地仓库添加远程仓库的SSH URL（注意将origin后的路径设置成你GitHub上的仓库SSH URL）</li>
+      <li>从远程仓库克隆：<code class="highlighter-rouge">git clone git@github.com:daihanqiao/daihanqiao.github.io.git</code>
+  &gt;说明：如果已有一个远程仓库，你可以将远程仓库内容拷贝到本地仓库</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="section-2">状态查看</h3>
+<ul>
+  <li>查看提交日志：<code class="highlighter-rouge">git log</code>，可添加<code class="highlighter-rouge">--pretty=oneline</code>参数，只显示版本号和提交信息</li>
+  <li>查看命令历史：<code class="highlighter-rouge">git reflog</code>，会显示操作命令及对应的版本号</li>
+  <li>仓库当前的状态：<code class="highlighter-rouge">git status</code></li>
+  <li>查看分支：<code class="highlighter-rouge">git branch</code></li>
+  <li>查看分支合并图：<code class="highlighter-rouge">git log --graph</code></li>
+  <li>查看“储藏”的工作现场：<code class="highlighter-rouge">git stash list</code></li>
+  <li>查看远程仓库名称：<code class="highlighter-rouge">git remote</code></li>
+  <li>查看远程仓库信息：<code class="highlighter-rouge">git remote -v</code>(抓取和推送地址)</li>
+  <li>查看标签信息：<code class="highlighter-rouge">git show </code></li>
+</ul>
+
+<h3 id="section-3">文件比较</h3>
+<ul>
+  <li>工作区和缓存区比较：<code class="highlighter-rouge">git diff (&lt;path&gt;)</code>，不传path则比较所有文件</li>
+  <li>缓存区和版本库比较：<code class="highlighter-rouge">git diff --cached (&lt;path&gt;)</code>,<code class="highlighter-rouge">git diff --staged (&lt;path&gt;)</code></li>
+  <li>工作区和版本库比较：<code class="highlighter-rouge">git diff HEAD,git diff HEAD^</code>,<code class="highlighter-rouge">git diff commit_id</code>(HEAD为当前版本，HEAD^为上一版本，HEAD^^上上一个版本，HEAD~100上100个版本，commit_id为版本号，以下命令不做特殊说明，commit_id均可用HEAD,HEAD^,HEAD~n代替)</li>
+  <li>版本库中两个不同版本的比较：<code class="highlighter-rouge">git diff commit_id1 commit_id2</code></li>
+</ul>
+
+<h3 id="section-4">文件提交</h3>
+
+<ul>
+  <li>工作区提交到缓存区： <code class="highlighter-rouge">git add &lt;path&gt;</code>，可以是文件也可以是目录，<code class="highlighter-rouge">git add .</code>表示add当前目录</li>
+  <li>缓存区提交到版本库：<code class="highlighter-rouge">git commit -m "commit msg"</code></li>
+  <li>版本库推送到远程库：<code class="highlighter-rouge">git push -u origin master</code>，第一次push加上-u参数，将本地master分支内容推送到远程库新的master分支，并将二者关联，以后的推送可以简化为git push</li>
+</ul>
+
+<h3 id="section-5">文件抓取</h3>
+
+<p><code class="highlighter-rouge">git pull</code></p>
+
+<h3 id="section-6">文件修改</h3>
+
+<ul>
+  <li>撤销缓存区的修改：<code class="highlighter-rouge">git reset HEAD file</code></li>
+  <li>工作区回退到某一版本：<code class="highlighter-rouge">git reset --hard commit_id</code></li>
+  <li>撤销工作区修改（未提交至缓存区）：<code class="highlighter-rouge">git checkout -- file</code></li>
+  <li>撤销工作区修改（已提交至缓存区）：<code class="highlighter-rouge">git reset HEAD file+git checkout -- file</code></li>
+  <li>文件从版本库删除：<code class="highlighter-rouge">git rm file|git add file+git commit -m "commit msg"</code></li>
+  <li>版本库误删的文件恢复到最新版本：<code class="highlighter-rouge">git checkout -- file</code></li>
+</ul>
+
+<h3 id="section-7">分支管理</h3>
+
+<ul>
+  <li>应用场景：开发某个功能模块，或测试定位修复某个BUG时，可以在自己的分支上开发，正常提交至版本库而不影响大家都在使用的分支，开发完成后合并到开发分支</li>
+  <li>创建并切换分支：<code class="highlighter-rouge">git checkout -b dev</code>(相当于<code class="highlighter-rouge">git branch dev+git checkout dev</code>)</li>
+  <li>合并分支：<code class="highlighter-rouge">git merge dev</code>，合并dev分支到当前分支</li>
+  <li>删除分支：<code class="highlighter-rouge">git branch -d dev</code></li>
+  <li>两个分支都修改了同一文件，合并时会发生冲突，需要手动解决冲突后再提交</li>
+  <li>“储藏”工作现场：<code class="highlighter-rouge">git stash</code>，当正在dev分支修改文件时，需要紧急修复某个bug，可以“储藏”当前开发进度，使用后<code class="highlighter-rouge">git status</code>查看工作区，就是干净的，可以创建bug分支修复，修复完成合并提交后，<code class="highlighter-rouge">git stash apply</code>(恢复)+<code class="highlighter-rouge">git stash drop</code>(删除)或<code class="highlighter-rouge">git stash pop</code>(恢复并删除)</li>
+</ul>
+
+<h3 id="section-8">标签管理</h3>
+
+<ul>
+  <li>应用场景：发布版本时，给所发布的版本加标签，以后可以方便的取出该版本</li>
+  <li>创建标签：<code class="highlighter-rouge">git tag &lt;name&gt; (commit_id) (-m "tag_msg)"</code>，不传commit_id时默认打到最近一次commit，-m参数可以传当前tag说明文字</li>
+  <li>推送标签到远程仓库：<code class="highlighter-rouge">git push origin &lt;tagname&gt;</code>(tagname)，<code class="highlighter-rouge">git push origin --tags</code>(全部tag)</li>
+  <li>删除本地标签：<code class="highlighter-rouge">git tag -d &lt;tagname&gt;</code></li>
+  <li>删除远程仓库标签：<code class="highlighter-rouge">git tag -d &lt;tagname&gt;</code>+<code class="highlighter-rouge">git push origin :refs/tags/&lt;tagname&gt;</code></li>
+  <li>切换到标签：<code class="highlighter-rouge">git checkout &lt;tagname&gt;</code></li>
+</ul>
+
+<h3 id="section-9">忽略特殊文件</h3>
+
+<ul>
+  <li><code class="highlighter-rouge">.gitignore</code>：window下可以通过命令新建该文件，将需要忽略的文件写入.gitignore即可，例如：<code class="highlighter-rouge">public/</code>忽略publick目录，<code class="highlighter-rouge">.gitignore</code>忽略.gitignore文件，<code class="highlighter-rouge">*.class</code>忽略所有class类型文件</li>
+</ul>
+
+<h3 id="git-documentationhttpsgit-scmcomdoc"><a href="https://git-scm.com/doc">Git Documentation</a></h3>
+
+				<hr />
+				<footer class="page-footer">
+					
+
+<div class="author-image">
+	<img src="/images/bio-photo.jpg" alt="">
+</div><!-- ./author-image -->
+<div class="author-content">
+	<h3 class="author-name" >Written by <span itemprop="author"></span></h3>
+	<p class="author-bio"></p>
+</div><!-- ./author-content -->
+					<div class="inline-btn">
+	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text=Git%20常用基本命令详解&amp;url=/git-basic/&amp;via=" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
+	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=/git-basic/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
+	<a class="btn-social google-plus"  href="https://plus.google.com/share?url=/git-basic/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Share on Google+</a>
+</div><!-- /.share-this -->
+
+					<div class="page-meta">
+	<p>Updated <time datetime="2016-11-23T00:00:00Z" itemprop="datePublished">November 23, 2016</time></p>
+</div><!-- /.page-meta -->
+				</footer><!-- /.footer -->
+				<aside>
+					
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		
+	</article><!-- ./wrap -->
+</div><!-- /#main -->
+
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+			<li><a href="/" >首页</a></li>
+		
+      
+			<li><a href="/about" >关于我们</a></li>
+		
+      
+			<li><a href="/contact" >联系我们</a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2017 <a href="">Archiz 设计工作室</a> 温哥华专业住宅及室内设计团队
+
+    </div>
+
+    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="/js/main.js"></script>
+
+  </body>
+
+</html>

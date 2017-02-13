@@ -13,7 +13,7 @@ image:
 <div class="page-lead" style="background-image:url(/images/wood-texture-1600x800.jpg)">
   <div class="wrap page-lead-content">
     <h2>资深建筑设计，室内设计及建筑表现团队</h2>
-    <h2>多年加国从业经验</h2>
+    <h2>多年温哥华设计经验</h2>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
@@ -30,12 +30,12 @@ image:
   <div class="page-content">
       <div class="tile">
         <h2 class="post-title">William Wei</h2>
-        <p class="post-excerpt">William自2012年起先后在JLP， IBI Group等加拿大顶级设计公司从事建筑设计，参与并主持过多项全国及BC省建筑设计大奖项目，如温哥华市中心地标建筑Harbour Green-3，Hotel Georgia Residence，蒙特利尔太阳马戏团研究院等，熟悉本地建筑风格以及当地建筑法律规范。</p>
+        <p class="post-excerpt">William自2012年起先后在JLP， IBI Group等加拿大顶级建筑设计公司从事建筑设计，参与并主持过多项全国及BC省建筑设计大奖项目，如温哥华市中心地标建筑Harbour Green-3，Hotel Georgia Residence，蒙特利尔太阳马戏团研究院等，熟悉本地建筑风格以及当地建筑法律规范。</p>
       </div><!-- /.tile -->
 
       <div class="tile">
         <h2 class="post-title">Shirley Zhang</h2>
-        <p class="post-excerpt">Shirley专注住宅设计，作品遍布温哥华东区，西区，列治文，西温，北温，本拿比，高贵林，白石素里等大温地区。熟知各城市不同分区规范，深刻理解当地建筑文化和建筑形式，加上华人知识背景，充分理解并能满足客户对住宅高品质设计的追求。</p>
+        <p class="post-excerpt">Shirley专注住宅设计，作品遍布温哥华东区，温西，列治文，西温，北温，本拿比，高贵林，白石素里等大温地区。熟知各城市不同分区规范，深刻理解当地建筑文化和建筑形式，加上华人知识背景，充分理解并能满足客户对住宅高品质设计的追求。</p>
       </div><!-- /.tile -->
 
       <div class="tile">

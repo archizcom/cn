@@ -4,17 +4,17 @@
   url: /
   excerpt:
   image: teaser-index.jpg
-- title: 住宅设计
-  url: /architecture-design
-  excerpt: 从方案，到报建，到现场监理全程服务
-  image: teaser-architecture-design.jpg
 - title: 商业设计
   url: /commercial-design
-  excerpt: 从方案，到报建，到现场监理全程服务
+  excerpt: 办公，商业店铺，展示空间
   image: teaser-commercial-design.jpg
+- title: 住宅设计
+  url: /architecture-design
+  excerpt: 从方案，政府报建，到现场施工监理
+  image: teaser-architecture-design.jpg
 - title: 室内设计
   url: /interior-design
-  excerpt: 住宅，办公，商业店铺
+  excerpt: 室内装修，装饰装潢
   image: teaser-interior-design.jpg
 - title: 建筑表现
   url: /architectural-rendering

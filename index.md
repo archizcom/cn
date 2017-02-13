@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title:
+title: Archiz 工作室，温哥华房屋建筑及室内设计
 image:
   feature:
   teaser: /images/teaser-index.jpg
@@ -13,9 +13,9 @@ image:
     <h1>Archiz Design Studio</h1>
     <h2>  </h2>
     <h2>知识+灵感+创新+经验</h2>
-    <h2>资深建筑设计团队为您创造理想空间</h2>
+    <h2>温哥华资深住宅建筑及室内设计团队</h2>
     <h2>  </h2>
-    <a href="/architecture-design" class="btn-inverse">房屋建筑设计</a> &nbsp; + &nbsp; <a href="/interior-design" class="btn-inverse">室内设计</a> &nbsp; + &nbsp; <a href="/architectural-rendering" class="btn-inverse">设计表现</a>
+    <a href="/architecture-design" class="btn-inverse">房屋建筑设计</a> &nbsp; + &nbsp; <a href="/interior-design" class="btn-inverse">室内设计</a> &nbsp; + &nbsp; <a href="/architectural-rendering" class="btn-inverse">建筑表现</a>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
@@ -32,22 +32,22 @@ image:
   <div class="page-content">
 
       <div class="tile">
-        <h2 class="post-title">商业</h2>
-        <p class="post-excerpt"><a href="/commercial-design"><img src="/images/index-6.jpg" alt="hotel georgia residence"></a></p>
+        <h2 class="post-title">商业设计</h2>
+        <p class="post-excerpt"><a href="/commercial-design"><img src="/images/index-6.jpg" alt="温哥华商业门面店铺设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
-        <h2 class="post-title">住宅</h2>
+        <h2 class="post-title">住宅设计</h2>
         <p class="post-excerpt"><a href="/architecture-design"><img src="/images/index-2.jpg" alt="温哥华住宅设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
-        <h2 class="post-title">室内</h2>
+        <h2 class="post-title">室内设计</h2>
         <p class="post-excerpt"><a href="/interior-design"><img src="/images/index-3.jpg" alt="温哥华室内设计"></a></p>
       </div><!-- /.tile -->
 
       <div class="tile">
-        <h2 class="post-title">表现</h2>
+        <h2 class="post-title">建筑表现</h2>
         <p class="post-excerpt"><a href="/architectural-rendering"><img src="/images/index-1.jpg" alt="温哥华建筑表现图"></a></p>
       </div><!-- /.tile -->
 
