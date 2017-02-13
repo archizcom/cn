@@ -1,6 +1,7 @@
 ---
 layout: article
 title: 我被Google一步步勾引
+categories: haha
 ---
 想当年我年少轻狂的时候，听说江湖上google家族有个[大波G妹](http://gmail.com)，不过需要圈内人士邀请方能得到，几经周折，求爹爹告奶奶，抛尽媚眼，终于如愿以偿得到，跟随我多年的[hot美美](http://hotmail.com)，虽然小家碧玉，但是敌不过风情万种的大波 G妹，被我深锁闺房。
 

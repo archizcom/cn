@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink:
-title: "分类：学习"
-excerpt: "学习学习再学习"
+title: "分类：haha"
+excerpt: "haha haha haha"
 ---
 <div class="tiles">
-{% for post in site.categories.学习 %}
+{% for post in site.categories.haha %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
