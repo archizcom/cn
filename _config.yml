@@ -3,7 +3,7 @@
 title: "Archiz 设计工作室"
 description: "温哥华资深华人建筑设计师团队，为大温地区华人提供专业的房屋建筑设计，包括住宅设计，商业门面店铺设计，家居室内装修设计，和其他各类装饰装潢设计。"
 logo: /images/archiz-log-1.png #120x120 px default image used for Twitter summary card
-teaser: teaser-400x250.jpg # teaser-400x250.png
+teaser: 400x250.jpg # teaser-400x250.png
 locale: en
 url:
 feed:
@@ -27,13 +27,13 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: william
   email:
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "hello world"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: mkzg
 
