@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/git-basic/</loc>
+<loc>/%25E5%25AD%25A6%25E4%25B9%25A0/test/</loc>
+<lastmod>2016-12-31T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/%25E5%25AD%25A6%25E4%25B9%25A0/git-basic/</loc>
 <lastmod>2016-11-23T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -103,5 +107,8 @@
 </url>
 <url>
 <loc>/interior-design</loc>
+</url>
+<url>
+<loc>/test/</loc>
 </url>
 </urlset>
