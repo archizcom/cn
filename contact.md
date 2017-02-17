@@ -33,7 +33,7 @@ image:
         设计引领生活
         </p>
         <p class="post-excerpt">
-        地址：201-1669 w 3rd ave
+        地址：210-1669 w 3rd ave
         </p>
         <p class="post-excerpt">
         Vancouver BC V6J1K1
@@ -42,7 +42,7 @@ image:
         电话：778-300-2111
         </p>
         <p class="post-excerpt">
-        网址：www.archiz.com
+        网址：cn.archiz.com
         </p>
       </div><!-- /.tile -->
 

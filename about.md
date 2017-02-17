@@ -30,7 +30,7 @@ image:
   <div class="page-content">
       <div class="tile">
         <h2 class="post-title">William Wei</h2>
-        <p class="post-excerpt">William自2012年起先后在JLP， IBI Group等加拿大顶级建筑设计公司从事建筑设计，参与并主持过多项全国及BC省建筑设计大奖项目，如温哥华市中心地标建筑Harbour Green-3，Hotel Georgia Residence，蒙特利尔太阳马戏团研究院等，熟悉本地建筑风格以及当地建筑法律规范。</p>
+        <p class="post-excerpt">William自2002年起先后在JLP， IBI Group等加拿大顶级建筑设计公司从事建筑设计，参与并主持过多项全国及BC省建筑设计大奖项目，如温哥华市中心地标建筑Harbour Green-3，Hotel Georgia Residence，蒙特利尔太阳马戏团研究院等，熟知本地建筑风格以及当地建筑法律规范。</p>
       </div><!-- /.tile -->
 
       <div class="tile">
