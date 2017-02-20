@@ -55,23 +55,23 @@ ads: false
       <div class="tile">
         <h2 class="post-title">西温豪宅</h2>
         <p class="post-excerpt"><a><img src="/images/residence-2.jpg" alt="西温哥华住宅设计，西温哥华别墅"></a></p>
+     </div><!-- /.tile -->
 
      <div class="tile">
        <h2 class="post-title">Hotel Georgia Residence</h2>
        <p class="post-excerpt"><a><img src="/images/index-1.jpg" alt="Harbour Green 3"></a></p>
-    </div><!-- /.tile -->
+     </div><!-- /.tile -->
 
-    <div class="tile">
-      <h2 class="post-title">Harbour Green 3</h2>
-      <p class="post-excerpt"><a><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
-    </div><!-- /.tile -->
- 
-    <div class="tile">
-      <h2 class="post-title">River Green</h2>
-      <p class="post-excerpt"><a><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
-    </div><!-- /.tile -->
+     <div class="tile">
+       <h2 class="post-title">Harbour Green 3</h2>
+       <p class="post-excerpt"><a><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
+     </div><!-- /.tile -->
 
-      </div><!-- /.tile -->
+     <div class="tile">
+       <h2 class="post-title">River Green</h2>
+       <p class="post-excerpt"><a><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
+     </div><!-- /.tile -->
+
   </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
 </div><!-- /wrap -->
