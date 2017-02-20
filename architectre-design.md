@@ -61,15 +61,15 @@ ads: false
        <p class="post-excerpt"><a><img src="/images/index-1.jpg" alt="Harbour Green 3"></a></p>
     </div><!-- /.tile -->
 
-     <div class="tile">
-       <h2 class="post-title">Harbour Green 3</h2>
-       <p class="post-excerpt"><a><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
-     </div><!-- /.tile -->
+    <div class="tile">
+      <h2 class="post-title">Harbour Green 3</h2>
+      <p class="post-excerpt"><a><img src="/images/index-6.jpg" alt="Harbour Green 3"></a></p>
+    </div><!-- /.tile -->
  
-      <div class="tile">
-        <h2 class="post-title">River Green</h2>
-        <p class="post-excerpt"><a><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
-      </div><!-- /.tile -->
+    <div class="tile">
+      <h2 class="post-title">River Green</h2>
+      <p class="post-excerpt"><a><img src="/images/river-green-1.jpg" alt="温哥华建筑设计"></a></p>
+    </div><!-- /.tile -->
 
       </div><!-- /.tile -->
   </div><!-- /.page-content -->
